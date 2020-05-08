@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cardWidth {
+  width: 550px;
+}
+
+.smallCardWidth {
+  width: 350px;
+}
+
+.searchBar {
+  width: 400px;
+}
